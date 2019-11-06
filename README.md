@@ -3,4 +3,5 @@
  
 [设计模式简介](note/pattern.md)  
 [工厂模式](note/pattern_01.md)  
+[抽象工厂模式](note/pattern_02.md)
     

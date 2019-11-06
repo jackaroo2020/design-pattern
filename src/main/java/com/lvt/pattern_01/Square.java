@@ -3,7 +3,7 @@ package com.lvt.pattern_01;
 /**
  * @Description: 方形
  * @Author: LT
- * @CreateDate: 2019/10/31 16:48
+ * @CreateDate: 2019/10/31 22:48
  * @Version: 1.0.0
  */
 public class Square implements Shape {
