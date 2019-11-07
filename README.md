@@ -70,6 +70,6 @@
    
 <b>设计模式学习笔记源码总结记录。对于项目中有错误之处，欢迎提出改正，谢谢！</b><br/>
      
-1、[工厂模式](note/pattern_01.md)  
-2、[抽象工厂模式](note/pattern_02.md)
+* [工厂模式](note/pattern_01.md)  
+* [抽象工厂模式](note/pattern_02.md)
     
