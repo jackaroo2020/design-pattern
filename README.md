@@ -8,9 +8,9 @@
   这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。<br/>
       [工厂模式（Factory Pattern）](note/pattern_01.md)     
       [抽象工厂模式（Abstract Factory Pattern）](note/pattern_02.md)   
-      单例模式（Singleton Pattern）<br/> 
-      建造者模式（Builder Pattern）<br/> 
-      原型模式（Prototype Pattern）<br/>
+      [单例模式（Singleton Pattern）](note/pattern_03.md)<br/> 
+      [建造者模式（Builder Pattern）](note/pattern_04.md)<br/> 
+      [原型模式（Prototype Pattern）](note/pattern_05.md)<br/>
 
 * 结构型模式<br/>
   这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。<br/>
@@ -72,4 +72,7 @@
      
 * [工厂模式](note/pattern_01.md)  
 * [抽象工厂模式](note/pattern_02.md)
+* [单例模式](note/pattern_03.md)
+* [建造者模式](note/pattern_04.md)
+* [原型模式](note/pattern_05.md)
     

@@ -1,6 +1,7 @@
 package com.lvt.pattern_02;
 
 import com.lvt.common.ColorEnum;
+import com.lvt.common.ShapeEnum;
 
 /**
  * @Description: java类作用描述
@@ -28,8 +29,8 @@ public class ColorFactory extends AbstractFactory {
         return color;
     }
 
-    public Shape getShape(int shapeType) {
-       return null;
+    public Shape getShape(ShapeEnum shapeEnum) {
+        return null;
     }
 
 }
