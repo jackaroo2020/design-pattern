@@ -19,9 +19,9 @@
       [过滤器模式（Filter、Criteria Pattern）](note/pattern_08.md)<br/>
       [组合模式（Composite Pattern）](note/pattern_09.md)<br/>
       [装饰器模式（Decorator Pattern）](note/pattern_10.md)<br/>
-      外观模式（Facade Pattern）<br/>
-      享元模式（Flyweight Pattern）<br/>
-      代理模式（Proxy Pattern）<br/>
+      [外观模式（Facade Pattern）](note/pattern_11.md)<br/>
+      [享元模式（Flyweight Pattern）](note/pattern_12.md)<br/>
+      [代理模式（Proxy Pattern）](note/pattern_13.md)<br/>
 
 * 行为型模式<br/>
   这些设计模式特别关注对象之间的通信。
@@ -69,10 +69,3 @@
    尽量使用合成/聚合的方式，而不是使用继承。<br/>
    
 <b>设计模式学习笔记源码总结记录。对于项目中有错误之处，欢迎提出改正，谢谢！</b><br/>
-     
-* [工厂模式](note/pattern_01.md)  
-* [抽象工厂模式](note/pattern_02.md)
-* [单例模式](note/pattern_03.md)
-* [建造者模式](note/pattern_04.md)
-* [原型模式](note/pattern_05.md)
-    
