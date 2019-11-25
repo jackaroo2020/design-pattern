@@ -43,4 +43,4 @@ ProxyPatternDemo，我们的演示类使用 ProxyImage 来获取要加载的 Ima
 ![Alt text](./images/fproxy_pattern.jpg)
 
 #### 代码demo
-[code](../src/main/java/com/lvt/pattern_13)
+[代理模式](../src/main/java/com/lvt/pattern_13)
