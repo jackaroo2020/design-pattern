@@ -25,29 +25,24 @@
 
 * 行为型模式<br/>
   这些设计模式特别关注对象之间的通信。
-      责任链模式（Chain of Responsibility Pattern）<br/>
-      命令模式（Command Pattern）<br/>
-      解释器模式（Interpreter Pattern）<br/>
-      迭代器模式（Iterator Pattern）<br/>
-      中介者模式（Mediator Pattern）<br/>
-      备忘录模式（Memento Pattern）<br/>
-      观察者模式（Observer Pattern）<br/>
-      状态模式（State Pattern）<br/>
-      空对象模式（Null Object Pattern）<br/>
-      策略模式（Strategy Pattern）<br/>
-      模板模式（Template Pattern）<br/>
-      访问者模式（Visitor Pattern）<br/>
+      [责任链模式（Chain of Responsibility Pattern）](note/pattern_14.md)<br/>
+      [命令模式（Command Pattern）](note/pattern_15.md)<br/>
+      [解释器模式（Interpreter Pattern）](note/pattern_16.md)<br/>
+      [迭代器模式（Iterator Pattern）](note/pattern_17.md)<br/>
+      [中介者模式（Mediator Pattern）](note/pattern_18.md)<br/>
+      [备忘录模式（Memento Pattern）](note/pattern_19.md)<br/>
+      [观察者模式（Observer Pattern）](note/pattern_20.md)<br/>
+      [状态模式（State Pattern）](note/pattern_21.md)<br/>
+      [空对象模式（Null Object Pattern）](note/pattern_22.md)<br/>
+      [策略模式（Strategy Pattern）](note/pattern_23.md)<br/>
+      [模板模式（Template Pattern）](note/pattern_24.md)<br/>
+      [访问者模式（Visitor Pattern）](note/pattern_25.md)<br/>
 
 * J2EE 模式<br/>
   这些设计模式特别关注表示层。这些模式是由 Sun Java Center 鉴定的。<br/>
       MVC 模式（MVC Pattern）<br/>
-      业务代表模式（Business Delegate Pattern）<br/>
-      组合实体模式（Composite Entity Pattern）<br/>
-      数据访问对象模式（Data Access Object Pattern）<br/>
       前端控制器模式（Front Controller Pattern）<br/>
       拦截过滤器模式（Intercepting Filter Pattern）<br/>
-      服务定位器模式（Service Locator Pattern）<br/>
-      传输对象模式（Transfer Object Pattern）<br/>
 
 #### 设计模式的六大原则
 1、开闭原则（Open Close Principle）<br/>

@@ -40,3 +40,6 @@
 我们有一个作为桥接实现的 DrawAPI 接口和实现了 DrawAPI 接口的实体类 RedCircle、GreenCircle。Shape 是一个抽象类，将使用 DrawAPI 的对象。BridgePatternDemo，
 我们的演示类使用 Shape 类来画出不同颜色的圆。      
 ![Alt text](./images/bridge_pattern.jpg)
+
+#### 示例Java代码
+[桥接模式](../src/main/java/com/lvt/pattern_07)

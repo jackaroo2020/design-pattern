@@ -38,3 +38,6 @@
 Shape（CIRCLE / RECTANGLE / SQUARE），以便获取它所需对象的类型。同时它还向 AbstractFactory 传递颜色信息 Color（RED / GREEN / BLUE），以便获取它所需对象的类型。   
    
 ![abstract_factory_pattern](./images/abstract_factory_pattern.jpg)
+
+#### 示例Java代码
+[抽象工厂模式](../src/main/java/com/lvt/pattern_02)

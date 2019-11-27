@@ -40,3 +40,6 @@
 FactoryPatternDemo演示类使用 ShapeFactory 来获取 Shape 对象。它将向 ShapeFactory 传递信息（CIRCLE / RECTANGLE / SQUARE），以便获取它所需对象的类型。  
     
 ![factory_pattern](./images/factory_pattern.png)
+
+#### 示例Java代码
+[工厂模式](../src/main/java/com/lvt/pattern_01)

@@ -40,7 +40,7 @@
 #### 实现     
 我们将创建一个 Image 接口和实现了 Image 接口的实体类。ProxyImage 是一个代理类，减少 RealImage 对象加载的内存占用。
 ProxyPatternDemo，我们的演示类使用 ProxyImage 来获取要加载的 Image 对象，并按照需求进行显示。      
-![Alt text](./images/fproxy_pattern.jpg)
+![Alt text](./images/proxy_pattern.jpg)
 
 #### 代码demo
 [代理模式](../src/main/java/com/lvt/pattern_13)

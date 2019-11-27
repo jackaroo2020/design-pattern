@@ -38,3 +38,6 @@
 #### 实现     
 我们有一个类 Employee，该类被当作组合模型类。CompositePatternDemo，我们的演示类使用 Employee 类来添加部门层次结构，并打印所有员工。      
 ![Alt text](./images/composite_pattern.jpg)
+
+#### 示例Java代码
+[组合模式](../src/main/java/com/lvt/pattern_09)

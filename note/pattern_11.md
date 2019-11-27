@@ -42,3 +42,6 @@
 
 ShapeMaker 类使用实体类来代表用户对这些类的调用。FacadePatternDemo，我们的演示类使用 ShapeMaker 类来显示结果。      
 ![Alt text](./images/facade_pattern.jpg)
+
+#### 示例Java代码
+[外观模式](../src/main/java/com/lvt/pattern_11)

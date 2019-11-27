@@ -40,3 +40,6 @@
 RedShapeDecorator 是实现了 ShapeDecorator 的实体类。
 DecoratorPatternDemo，我们的演示类使用 RedShapeDecorator 来装饰 Shape 对象。      
 ![Alt text](./images/decorator_pattern.jpg)
+
+#### 示例Java代码
+[装饰器模式](../src/main/java/com/lvt/pattern_10)
