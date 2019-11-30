@@ -5,15 +5,16 @@
 * 主要解决          
 主要解决接口选择的问题。
 
-* 结构图       
+* 结构图 
+>工厂方法模式结构图      
 ![factory_pattern](images/factory_pattern.png)      
-<center>工厂方法模式结构图</center>              
-
+               
+>工厂方法模式具体应用结构图 
 ![factory_pattern](./images/factory_pattern_demo.png)       
-<center>工厂方法模式具体应用结构图 </center>
-       
+ 
+>简单工厂方法模式代码实现结构图          
 ![factory_pattern](images/factory_pattern_code.jpg)     
-<center>简单工厂方法模式代码实现结构图 </center>       
+       
 
 * code example     
 [工厂模式](../src/main/java/com/lvt/pattern_01)
