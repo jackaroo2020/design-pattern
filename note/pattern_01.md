@@ -13,7 +13,7 @@
 工厂方法模式具体应用结构图 
        
 ![factory_pattern](images/factory_pattern_code.jpg)  
-工厂方法模式代码实现结构图        
+简单工厂方法模式代码实现结构图        
 
 * code example     
 [工厂模式](../src/main/java/com/lvt/pattern_01)
