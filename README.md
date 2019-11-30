@@ -1,13 +1,12 @@
 #### 设计模式
- 
-设计模式（Design pattern）代表了最佳的实践，通常被有经验的面向对象的软件开发人员所采用。设计模式是软件开发人员在软件开发过程中面临的一般问题的解决方案。
-这些解决方案是众多软件开发人员经过相当长的一段时间的试验和错误总结出来的。
+设计模式（Design pattern）代表了最佳的实践，是众多众多的软件开发人员众多软件开发人员经过相当长的一段时间的试验和错误总结出来的。通过这些设计模式让你找到"封装变化"，“对象间松散耦合”，
+“针对接口编程”的感觉，从而设计出易维护、易扩展、易复用、灵活性好的程序。
 
 #### 设计模式的类型
 * 创建型模式<br/>
   这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。<br/>
-      [工厂模式（Factory Pattern）](note/pattern_01.md)     
-      [抽象工厂模式（Abstract Factory Pattern）](note/pattern_02.md)   
+      [工厂模式（Factory Pattern）](note/pattern_01.md)<br/> 
+      [抽象工厂模式（Abstract Factory Pattern）](note/pattern_02.md)<br/>
       [单例模式（Singleton Pattern）](note/pattern_03.md)<br/> 
       [建造者模式（Builder Pattern）](note/pattern_04.md)<br/> 
       [原型模式（Prototype Pattern）](note/pattern_05.md)<br/>
