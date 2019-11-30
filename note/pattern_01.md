@@ -6,9 +6,14 @@
 主要解决接口选择的问题。
 
 * 结构图       
-![factory_pattern](images/factory_pattern.png)                 
-![factory_pattern](./images/factory_pattern_demo.png)       
-![factory_pattern](images/factory_pattern_code.jpg)         
+![factory_pattern](images/factory_pattern.png)  
+工厂方法模式结构图               
+
+![factory_pattern](./images/factory_pattern_demo.png)
+工厂方法模式具体应用结构图 
+       
+![factory_pattern](images/factory_pattern_code.jpg)  
+工厂方法模式代码实现结构图        
 
 * code example     
 [工厂模式](../src/main/java/com/lvt/pattern_01)
