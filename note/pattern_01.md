@@ -1,4 +1,9 @@
 ### 工厂模式
+* 结构图           
+![factory_pattern](./images/factory_pattern.png)
+
+* code example     
+[工厂模式](../src/main/java/com/lvt/pattern_01)
 
 * 意图                
 定义一个创建对象的接口，让其子类自己决定实例化哪一个工厂类，工厂模式使其创建过程延迟到子类进行。
@@ -29,12 +34,3 @@
 
 * 注意事项              
 作为一种创建类模式，复杂对象适合使用工厂模式，而简单对象，特别是只需要通过 new 就可以完成创建的对象，无需使用工厂模式。
-
-* 实现            
-创建一个 Shape 接口和实现 Shape 接口的实体类。下一步是定义工厂类 ShapeFactory。
-FactoryPatternDemo演示类使用 ShapeFactory 来获取 Shape 对象。它将向 ShapeFactory 传递信息（CIRCLE / RECTANGLE / SQUARE），以便获取它所需对象的类型。  
-    
-![factory_pattern](./images/factory_pattern.png)
-
-* code example     
-[工厂模式](../src/main/java/com/lvt/pattern_01)
