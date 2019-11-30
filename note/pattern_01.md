@@ -5,8 +5,10 @@
 * 主要解决          
 主要解决接口选择的问题。
 
-* 结构图           
-![factory_pattern](./images/factory_pattern.png)
+* 结构图       
+![factory_pattern](images/factory_pattern.png)                 
+![factory_pattern](./images/factory_pattern_demo.png)       
+![factory_pattern](images/factory_pattern_code.jpg)         
 
 * code example     
 [工厂模式](../src/main/java/com/lvt/pattern_01)
@@ -23,10 +25,10 @@
 
 * 优点                
 1、扩展性高，如果想增加一个产品，只要扩展一个工厂类就可以。 
-2、屏蔽产品的具体实现，调用者只关心产品的接口。     
+2、克服了简单工厂违背开放-封闭原则的缺点，又保持了封装对象过程创建对象的优点。     
 
 * 缺点            
-每次增加一个产品时，都需要增加一个具体类和对象实现工厂，在一定程度上增加了系统的复杂度。
+每次增加一个产品时，都需要增加一个具体类和对象实现工厂，增加了额外的开发量和系统复杂度。
 
 * 使用场景                  
 1、数据库访问，当用户不知道最后系统采用哪一类数据库，以及数据库可能有变化时。         
